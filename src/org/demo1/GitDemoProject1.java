@@ -14,6 +14,9 @@ public class GitDemoProject1 {
 	
 	String e = "sastik";
 	System.out.println(e);
+	
+	char f ='a';
+	System.out.println(f);
 	 
 	}
 }
