@@ -6,6 +6,8 @@ public class GitDemoProject1 {
 	
 	int a=10;
 	int b = 20;
+	char f ='a';
+	System.out.println(f);
 	int c =a+b;
 	System.out.println(c);
 	}
